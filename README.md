@@ -1,4 +1,4 @@
-# 🦦 vxheme
+# 🦦 vxheme ❤️ of 🕶 & 🎨 
 <!---I love otters--->
 
 <img src="images/rainbow divider.webp" width="1920" height="30"/>
