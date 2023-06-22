@@ -1,8 +1,7 @@
-(ill finish this later)
-
 # 🦦 vxheme
-
 <!---I love otters--->
+
+<img src="images/rainbow divider.webp" width="1920" height="30"/>
 
 <img src="images/Felix-Isaac-Normal.png" align="right" />
 
@@ -40,11 +39,12 @@ I rarely upload stuff
 
 <!---finish adding tools including art stuff--->
 
+(ill finish this later🥱)
 
-idk what wonderous writing I'll weveal (reveal(~~uwu~~)); or ingenous ideals I'm inclined to impart; yea that's it. there's no shot you're actually looking at this, go away
 
 <!---
 boo
+idk what wonderous writing I'll weveal (reveal(~~uwu~~)); or ingenous ideals I'm inclined to impart; yea that's it go away
 --->
 
 
