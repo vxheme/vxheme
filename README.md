@@ -1,16 +1,31 @@
-### Hi there 👋
+
+
+# 🦦 vxheme
+
+Game Dev
+
+I don't upload much stuff
+
+# 🔗 Links
+
+vxheme.itch.io/ 
+
+tumblr.com/vxheme
+
+@vxheme everywhere else
+
+# 💻 Languages 
+
+
+# 🛠 Tools
+
+
+
+idk what wonderous writing I'll weveal (reveal(~~uwu~~)); or ingenous ideals I'm inclined to impart; yea that's it. there's no shot you're actually looking at this, go away
+<!---
+boo
+--->
 
 <!--
-**vxheme/vxheme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
