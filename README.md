@@ -9,6 +9,8 @@ Game Dev
 
 I rarely upload stuff
 
+the only thing here rn is private repos for skool lol
+
 # 🔗 Links
 
 <!---icons here--->
