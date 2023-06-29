@@ -13,15 +13,15 @@ the only thing here rn is private repos for skool lol
 
 # 🔗 Links
 
-<!---icons here--->
+<a href="https://vxheme.itch.io/">
+  <img src="https://avatars0.githubusercontent.com/u/14803619?s=280&v=4](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftfancs.github.io%2FTFANCSPage%2Fimages%2Fitchio.png&f=1&nofb=1&ipt=cc3a301bd95746ac75d471cf772005a1a35f7b53c38f989eafc798630bf8345e&ipo=images" width="50" height="50" title="Itch.io" alt="Itch.io">
+</a>
 
-[Itch.io](vxheme.itch.io/) 
+<a href="https://www.tumblr.com/vxheme">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F09%2FTumblr-Symbol.png&f=1&nofb=1&ipt=50eaf53a3698b90755199c6c55ab8e9bfaf392de6d2bfd3e0f505bac37627463&ipo=images" height="50" title="Tumblr" alt="Tumblr">
+</a>
 
-[Tumblr](tumblr.com/vxheme)
-
-[Twitter](https://twitter.com/vxheme)
-
-@vxheme everywhere else
+@vxheme some other places
 
 # 💻 Programming
 <p>
