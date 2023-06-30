@@ -9,7 +9,8 @@ Game Dev
 
 I rarely upload stuff
 
-the only thing here rn is private repos for skool lol
+_"I exist ig,"_ -Me, influential Midwestern philosopher of the Ming Dynsasty, cicra 99 BC (Colourized); moments before the fall of Atlantis.
+(⌐■_■)
 
 # 🔗 Links
 
